@@ -1,3 +1,5 @@
+![Banner profesional](https://github.com/ihernandezb/ihernandezb/blob/main/Banner%20para%20Linkedin.png)
+
 ## 👋 Hola, Soy Iván Felipe Hernández Barrera
 
 **👔 Magíster y Especialista en Gerencia de Proyectos | Analista de Datos | Business Intelligence**
