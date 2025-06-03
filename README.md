@@ -2,7 +2,7 @@
 
 ## 👋 Hola, Soy Iván Felipe Hernández Barrera
 
-**👔 Magíster y Especialista en Gerencia de Proyectos | Analista de Datos | Business Intelligence**
+**👔 Magíster y Especialista en Gerencia de Proyectos | Analista de Datos**
 
 📫 Email: ifelipe.hdez@gmail.com  
 🔗 LinkedIn: [ifelipehdez](https://www.linkedin.com/in/ifelipehdez/)
